@@ -1,1 +1,0 @@
-# Coal-Test-Shapefile
